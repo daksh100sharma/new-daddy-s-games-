@@ -1,0 +1,429 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #732673;
+    /* background-image: linear-gradient(to right,#ffffe6 ,#ffe6ff); */
+}
+
+hr{
+    color: white;
+    margin: auto;
+}
+
+.show-case{
+    text-align: center !important;
+    margin: auto !important;
+    align-items: center;
+    position: relative;
+}
+
+.show-case-1st-line{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    margin: auto;
+}
+
+.graphics-card{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px ;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.graphics-card h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img001{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+.graphics-card-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+}
+
+.graphics-card-btn a{
+    text-decoration: none;
+}
+
+
+/* /////////      SHOW-CASE [GAMING MOUSE]      /////////    */
+
+.gaming-mouse{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin: 0;
+    margin-top: 10px;
+
+}
+
+.gaming-mouse h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img002{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+/* .gaming-mouse-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+} */
+
+.gaming-mouse-btn a{
+    text-decoration: none;
+}
+
+
+
+.gaming-headphone{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px ;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.gaming-headphone h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img003{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+/* .gaming-headphone-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+} */
+
+/* gaming-headphone-btn a{
+    text-decoration: none;
+} */
+
+
+
+
+.ram{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px ;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.ram h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img004{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+/* .ram-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+}
+
+.ram-btn a{
+    text-decoration: none;
+} */
+
+
+
+
+
+.show-case-2nd-line{
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gaming-chair{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px ;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.gaming-chair h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img005{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+.gaming-chair-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+}
+
+.gaming-chair-btn a{
+    text-decoration: none;
+}
+
+
+.fps-monitor{
+    width: 250px;
+    height: auto;
+    background-color: #bb99ff;
+    border-radius: 12px;
+    border: 3px ;
+    padding: 0;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.fps-monitor h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.img006{
+    max-width: 95%;
+    min-width: 95%;
+    height: 110px;
+    margin: auto;
+    border-radius: 12px;
+    display: flex;
+    border: 2px #67b581 solid;
+}
+
+/* .fps-monitor-btn{
+    padding: 5px;
+    margin-top: 16px;
+    background-color: black;
+    color: white;
+}
+
+.fps-monitor-btn a{
+    text-decoration: none;
+} */
+
+
+.game-display img{
+    max-width: 90%;
+    display: flex;
+    margin: auto;
+}
+
+.img007{
+    border-radius: 13px;
+}
+
+.img007-btn{
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    background-color: green;
+}
+
+.img007-btn a{
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+}
+.about-us{
+    position:relative;
+    margin:auto;
+    border-radius: 13px;  
+    max-width: 80%;
+    height: auto;
+    text-align: center;
+    font-size: 3px;
+    color:aqua;
+    position:static;
+}
+
+.about-us h1{
+    font-size: 28px;
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.about-us p{
+    color:#ff80b3;
+    font-size: 17px;
+
+}
+    
+  
+  
+/* Smartphones (portrait and landscape) 320 - 480 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    /* Styles */
+    .show-case{
+        display:flex;
+        display: block;
+        padding:0;
+    }
+    .graphics-card{
+            margin: auto;
+            margin-bottom: 10px;
+            max-width: 40%;
+        }
+    .gaming-mouse{
+        margin: auto;
+        margin-bottom: 10px;
+        max-width: 40%;
+    }
+    .gaming-headphone{
+        margin: auto;
+        margin-bottom: 10px;
+        max-width: 40%;
+       
+  }
+  .ram{
+      margin: auto;
+      margin-bottom: 10px;
+      max-width: 40%;
+  }
+  .ram h1{
+      padding: 12px;
+      position: relative;
+  }
+  .gaming-chair{
+      margin: auto;
+      margin-bottom: 10px;
+      max-width: 40%;
+  }
+  .fps-monitor{
+      margin: auto;
+      margin-bottom: 10px;
+      max-width: 40%;
+    }
+    .fps-monitor h1{
+        padding: 1px;
+        position: relative;
+    }   
+    .show-case-2nd-line{
+        display:flex;
+        display: block;
+        margin-bottom: 10px;
+        padding:0;
+  }
+}
+
+/* Small phone 245 283 */
+@media only screen and (min-device-width : 245px) and (max-device-width : 229px){
+    .show-case{
+        max-width: 70%;
+        display:flex;
+        margin: 10px;
+    }
+    .show-case-2nd-line{
+        max-width: 70%;
+        display:flex;
+        margin: 10px;
+    }
+    .graphics-card{
+        margin-bottom: 10px;
+    }
+    .gaming-mouse{
+        margin-bottom: 10px;
+    }
+    .gaming-headphone{
+        margin-bottom: 10px;
+    }
+    .ram{
+        margin-bottom: 10px;
+    }
+    .gaming-chair{
+        margin-bottom: 10px;
+    }
+    .fps-monitor{
+        margin-bottom: 10px;
+    }
+
+}
+
+
